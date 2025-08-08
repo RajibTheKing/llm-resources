@@ -27,6 +27,26 @@ Large Language Models (LLMs) are AI models trained on vast amounts of text data 
 | **Yi-34B**      | 01.AI       | China   | Nov 2023     | [01.ai](https://01.ai/) |
 | **StableLM 2**  | Stability AI | UK    | Dec 2023    | [stability.ai/stablelm](https://stability.ai/stablelm) |
 
+### 💬 LLM Chat Interfaces
+
+| Platform | Company | URL | Free Tier | Notes |
+|----------|---------|-----|-----------|-------|
+| **ChatGPT** | OpenAI | [chatgpt.com](https://chatgpt.com/) | ✅ | GPT-3.5 free, GPT-4 with Plus |
+| **Gemini** | Google | [gemini.google.com](https://gemini.google.com/) | ✅ | Formerly Bard |
+| **Claude** | Anthropic | [claude.ai](https://claude.ai/) | ✅ | Limited free usage |
+| **Copilot** | Microsoft | [copilot.microsoft.com](https://copilot.microsoft.com/) | ✅ | Integrated with Bing |
+| **Perplexity** | Perplexity AI | [perplexity.ai](https://perplexity.ai/) | ✅ | AI-powered search |
+| **Character.AI** | Character Technologies | [character.ai](https://character.ai/) | ✅ | Character-based conversations |
+| **You.com** | You.com | [you.com](https://you.com/) | ✅ | Search + Chat |
+| **Poe** | Quora | [poe.com](https://poe.com/) | ✅ | Multiple models in one platform |
+| **Hugging Face Chat** | Hugging Face | [huggingface.co/chat](https://huggingface.co/chat) | ✅ | Open source models |
+| **DeepSeek Chat** | DeepSeek | [chat.deepseek.com](https://chat.deepseek.com/) | ✅ | DeepSeek models |
+| **Mistral Chat** | Mistral AI | [chat.mistral.ai](https://chat.mistral.ai/) | ✅ | Mistral models |
+| **Pi** | Inflection AI | [pi.ai](https://pi.ai/) | ✅ | Personal AI assistant |
+| **Phind** | Phind | [phind.com](https://phind.com/) | ✅ | Developer-focused AI search |
+| **Cohere Chat** | Cohere | [coral.cohere.com](https://coral.cohere.com/) | ✅ | Command models |
+| **Grok** | xAI | [grok.x.ai](https://grok.x.ai/) | ✅ | X Premium required |
+
 ### 🏆 Model Benchmarks & Comparisons
 
 - https://lmarena.ai/leaderboard
