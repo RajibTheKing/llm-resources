@@ -1,5 +1,5 @@
 # LLM (Large Language Models) Resource Repository
-Welcome to my LLM resource repository! This is a growing collection of information, links, and references related to Large Language Models (LLMs). Over time, I will expand this with useful resources, research papers, tools, and tutorials.
+#### Welcome to my LLM resource repository! This is a growing collection of information, links, and references related to Large Language Models (LLMs). Over time, I will expand this with useful resources, research papers, tools, and tutorials.
 ---
 
 ### 📌 Introduction to LLMs
@@ -36,7 +36,12 @@ Large Language Models (LLMs) are AI models trained on vast amounts of text data 
 - https://pile.eleuther.ai/
 - https://commoncrawl.org/
 
-### � Prompt Engineering & Optimization
+### 🎨 LLM-Created Artifacts & Showcases
+- https://madewithclaude.com/ - Showcase of projects and applications built with Claude
+- https://openai.com/customer-stories - Real-world applications powered by OpenAI models
+- https://huggingface.co/spaces - Community-built AI applications and demos
+
+### 🛠️ Prompt Engineering & Optimization
 - https://github.com/openai/openai-cookbook
 - https://www.promptingguide.ai/
 
